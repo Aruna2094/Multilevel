@@ -8,6 +8,9 @@ public class Canbank {
 	}
     public void recurring() {
 		System.out.println("recuring 8%");
-System.out.println("hi hello");
-	}
+		System.out.println("hi");
+		System.out.println("hi hello");
+
+    }
+
 }
